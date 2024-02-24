@@ -44,7 +44,7 @@
         </a>
         <a href="categories/baby-kid">
             <div class="card" style="width: 18rem;">
-                <img src="https://source.unsplash.com/400x300?baby-kid" class="card-img-top" alt="...">
+                <img src="https://source.unsplash.com/400x300?toys" class="card-img-top" alt="...">
                 <div class="card-body d-grid gap-3">
                   <h5 class="card-title">Baby Kid</h5>
                 </div>
